@@ -1,0 +1,6 @@
+setup-1:
+  machines:
+    machine-1: 'local_ubuntu_14.4'
+    machine-2: 'local_ubuntu_15.4'
+    machine-3: 'ubuntu_test_1'
+    machine-4: 'ubuntu_test_2'
